@@ -30,4 +30,4 @@ Since TiddlyIO is not required when accessing MokuWiki on the web, even browser 
 * JavaScript Creole 1.0 Wiki Markup Parser ([Homepage](http://www.ivan.fomichev.name/2008/04/javascript-creole-10-wiki-markup-parser.html))
 
 ## License
-MokuWiki is released under the MIT license. See LICENSE.markdown for details.
+MokuWiki is released under the MIT license. See <a href="https://github.com/Krishnapal-rajput/MokuWiki/blob/master/LICENSE.markdown">LICENSE.markdown</a> for details.
