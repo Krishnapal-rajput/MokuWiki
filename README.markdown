@@ -23,9 +23,9 @@ Since TiddlyIO is not required when accessing MokuWiki on the web, even browser 
 
 ## Libraries used
 * jQuery v1.5.1 ([Homepage](http://jquery.com/))<br />
-    Plugins:
-  * getUrlParam ([Homepage](http://www.mathias-bank.de/2007/04/21/jquery-plugin-geturlparam-version-2/))
-  * TextArea Resizer ([Homepage](http://plugins.jquery.com/project/TextAreaResizer))
+   <li> Plugins:</li>
+  <ul><li>getUrlParam ([Homepage](http://www.mathias-bank.de/2007/04/21/jquery-plugin-geturlparam-version-2/))</li>
+  <li>TextArea Resizer ([Homepage](http://plugins.jquery.com/project/TextAreaResizer))</li></ul>
 * TiddlyIO ([GitHub Repository](https://github.com/tiefpunkt/tiddlyIO))
 * JavaScript Creole 1.0 Wiki Markup Parser ([Homepage](http://www.ivan.fomichev.name/2008/04/javascript-creole-10-wiki-markup-parser.html))
 
